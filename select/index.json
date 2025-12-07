@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カリスマックス",
+  "base_artist": "Snow Man",
+  "createdAt": "2025-12-07T13:55:32.150251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カリスマックス - CHARISMAX",
+      "artist": "Snow Man",
+      "has_synced": true,
+      "path": "select/01_カリスマックス_-_CHARISMAX_Snow_Man.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カリスマックス",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_カリスマックス_Snow_Man.txt"
+    }
+  ]
+}
